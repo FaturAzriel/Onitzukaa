@@ -1,0 +1,26 @@
+/* DETAIL PRODUK */
+.btn-light {
+    cursor: pointer;
+    background: #eee;
+    width: 100%;
+}
+
+.btn-light:hover {
+    background: #e3e3e3;
+    width: 100%;
+}
+
+.btn-dark {
+    border-radius: 10px;    
+    background: #000;
+    width: 100%;
+}
+
+hr {
+    background-color: #000;
+    height: 4px;
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 0px;
+    margin-top: -30px;
+}
